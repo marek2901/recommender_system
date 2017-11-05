@@ -1,0 +1,6 @@
+datasets/*
+!datasets/.keep
+venv
+*.pyc
+*.log
+metastore_db
